@@ -5,7 +5,7 @@ import os
 import logging
 
 try:
-    log_folder_dir= "C:/"
+    log_folder_dir= "D:/"
     log_folder_name = "PDF MERGER LOGS"
     path = os.path.join(log_folder_dir, log_folder_name)
 

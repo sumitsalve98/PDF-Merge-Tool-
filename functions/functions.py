@@ -76,7 +76,6 @@ def scanallpdf():
 
 
 
-
 #Creating fuction which will mearge all pdf files from selected folder and create new pdf called merged inside
 #dir called mergedpdf which will be created inside selected folder.
 #If it is already exist, it will be deleted and created new one again.
